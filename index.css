@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: cneter;
+    align-items: center;
+    position: absolute;
+}
+img{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    margin: auto;
+}
+img:hover{
+    opacity:0.6;
+}
